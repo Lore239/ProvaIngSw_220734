@@ -92,4 +92,5 @@ public class FunnyAlgorithmsTest {
         DateTime dt = new DateTime();
         System.out.println(dt.toString(pattern));
     }
+
 }
